@@ -1,0 +1,19 @@
+<Brief/Short description message here>
+
+> [highlight here, e.g. Milestone achieved]
+
+# Improvements:
+
+ + support <feature_hash>: <who? how?>
+
+# Bug Fix:
+
+ + fix <bug_hash>: <who? how?>
+
+# Limitations:
+
+ + <feature_hash> not supported
+
+# Know Bugs:
+
+ + <bug_hash> not working

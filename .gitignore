@@ -1,3 +1,10 @@
+# Emacs backup
+*.*~
+
+# Personal Configured files
+*.nogit
+esp32/toilet_fan/sdkconfig
+
 # Prerequisites
 *.d
 
